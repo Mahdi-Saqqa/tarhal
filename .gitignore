@@ -1,0 +1,17 @@
+# Node.js
+server/node_modules/
+
+# Logs
+server/logs
+server/*.log
+server/npm-debug.log*
+
+# Dependency directories
+server/pids
+server/*.pid
+server/*.seed
+server/*.pid.lock
+
+# Optional - OS generated files
+.DS_Store
+Thumbs.db
